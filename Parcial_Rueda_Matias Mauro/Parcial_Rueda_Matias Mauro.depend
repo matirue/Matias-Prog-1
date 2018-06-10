@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1528671458 source:c:\users\matias\desktop\parcial_rueda_matias mauro\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"input.h"
+
+1528671458 c:\users\matias\desktop\parcial_rueda_matias mauro\funciones.h
+
+1528671458 c:\users\matias\desktop\parcial_rueda_matias mauro\input.h
+
+1528671458 source:c:\users\matias\desktop\parcial_rueda_matias mauro\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"input.h"
+
+1528671458 source:c:\users\matias\desktop\parcial_rueda_matias mauro\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	"funciones.h"
+	"input.h"
+
