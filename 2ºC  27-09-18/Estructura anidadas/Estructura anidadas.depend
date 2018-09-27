@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1538054021 source:c:\users\alumno\desktop\2ºc  27-09-18\estructura anidadas\alumnos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Alumnos.h"
+
+1538054021 c:\users\alumno\desktop\2ºc  27-09-18\estructura anidadas\alumnos.h
+
+1538057415 source:c:\users\alumno\desktop\2ºc  27-09-18\estructura anidadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Alumnos.h"
+
