@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1539300241 source:c:\users\matias\desktop\parcial 1°b_rueda matias mauro\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"autos.h"
+
+1539299404 c:\users\matias\desktop\parcial 1°b_rueda matias mauro\autos.h
+	"propietarios.h"
+
+1539298976 c:\users\matias\desktop\parcial 1°b_rueda matias mauro\propietarios.h
+	"Input.h"
+
+1539280331 c:\users\matias\desktop\parcial 1°b_rueda matias mauro\input.h
+
+1539284472 source:c:\users\matias\desktop\parcial 1°b_rueda matias mauro\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Input.h"
+
+1539300274 source:c:\users\matias\desktop\parcial 1°b_rueda matias mauro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"propietarios.h"
+	"autos.h"
+
+1539299404 source:c:\users\matias\desktop\parcial 1°b_rueda matias mauro\propietarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"propietarios.h"
+
+1539300642 source:c:\users\matias\desktop\parcial\parcial 1°b_rueda matias mauro\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"autos.h"
+
+1539303543 c:\users\matias\desktop\parcial\parcial 1°b_rueda matias mauro\autos.h
+	"propietarios.h"
+
+1539303512 c:\users\matias\desktop\parcial\parcial 1°b_rueda matias mauro\propietarios.h
+	"Input.h"
+
+1539280331 c:\users\matias\desktop\parcial\parcial 1°b_rueda matias mauro\input.h
+
+1539284472 source:c:\users\matias\desktop\parcial\parcial 1°b_rueda matias mauro\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Input.h"
+
+1539300274 source:c:\users\matias\desktop\parcial\parcial 1°b_rueda matias mauro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"propietarios.h"
+	"autos.h"
+
+1539299404 source:c:\users\matias\desktop\parcial\parcial 1°b_rueda matias mauro\propietarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"propietarios.h"
+
